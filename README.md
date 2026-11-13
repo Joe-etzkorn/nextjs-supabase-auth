@@ -10,7 +10,7 @@
   <a href="https://www.supabase.io">
     <img src="/public/assests/auth-helpers-nextjs.svg" alt="Supabase" />
   </a>
-  <a href="https://github.com/marshall-johnson/nextjs-supabase-auth/blob/main/LICENSE">
+  <a href="https://github.com/Joe-etzkorn/nextjs-supabase-auth/blob/main/LICENSE">
     <img src="/public/assests/nextjs-supabase-auth.svg" alt="License" />
   </a>
 </p>
@@ -31,7 +31,7 @@ This repo is meant to be an **example** only. Please feel free to fork it and ma
 
 ## Author
 
-[Marshall Johnson](https://github.com/marshall-johnson)
+[joe-etzkorn](https://github.com/Joe-etzkorn)
 
 ## License
 
